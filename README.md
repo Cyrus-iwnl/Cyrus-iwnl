@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Cyrus-iwnl.readme)
 
 ### 🕵 About me
-I'm an undergraduate from Nanjing University, majoring in Software Engineering.
+_**I'm an undergraduate from Nanjing University, majoring in Software Engineering.**_
 
 ### 📚 Languages
 ![Java](https://img.shields.io/badge/-Java-FC801D?style=flat&logo=java&logoColor=white)
