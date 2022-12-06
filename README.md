@@ -17,13 +17,10 @@ _**I'm an undergraduate from Nanjing University, majoring in Software Engineerin
 ![Pycharm](https://img.shields.io/badge/-Pycharm-21D789?style=flat&logo=Pycharm&logoColor=white)
 
 ### ✍️ Learning
-✅ `Princeton coursera` Algorithms
-
-✅ `Stanford CS144` Computer Networking
-
-🚧 `MIT 6.s081` Operating System
-
-🚧 `NJU SE` Compilers
++ ✅  Algorithms `Princeton coursera`
++ ✅  Computer Networking `Stanford CS144`
++ 🚧  Operating System `MIT 6.s081`
++ 🚧  Compilers `NJU SE`
 
 ### 📧 Contact
 + email: Cyrus_iwnl_@outlook.com
