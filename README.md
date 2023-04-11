@@ -28,7 +28,7 @@ _**I'm an undergraduate from Nanjing University, majoring in Software Engineerin
 | ***Automated Testing***, Fall 2022, NJU                      | fuzz-cov           | fuzzing testing based on code coverage rate. |
 | ***Software Engineering and Computing II***, Spring 2022, NJU | erp-system         | A web project with sperated front and back end, using SpringBoot, MyBatis and Vue. |
 | ***Computer Organization and Architecture***, Fall 2021, NJU | lab[13/13]         |                                                              |
-| ***Algorithms***, coursera, princeton                        | lab[10/10]         | Using the learned data structure and algorithms, implement some pratice tools. |
+| ***Algorithms***, coursera, princeton                        | lab[10/10]         | write some practical programs, using the learned data structure and algorithms. Pretty instereting :) |
 
 ### 📧 Contact
 + email: Cyrus_iwnl_@outlook.com
