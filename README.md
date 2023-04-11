@@ -27,7 +27,7 @@ _**I'm an undergraduate from Nanjing University, majoring in Software Engineerin
 | ***Operation System Engineering***, Fall 2021, MIT 6.S081    | *work in progress* | implement *xv6* which is a simple Unix-like teaching operating system |
 | ***Compilers***, Fall 2022, NJU                              | lab[7/7]           | write a compiler for language SysY and tranlate SysY into LLVM IR. |
 | ***Software Engineering and Computing II***, Spring 2022, NJU | erp-system         | A web project with sperated front and back end, using SpringBoot, MyBatis and Vue. |
-| ***Computer Organization and Architecture***, Fall 2021, NJU | lab[13/13]         |                                                              |
+| ***Computer Organization and Architecture***, Fall 2021, NJU | lab[13/13]         | simulate the major components of a computer using Java, including ALU, FPU,  MMU, cache, disk, instruction pipeline. |
 | ***Algorithms***, coursera, princeton                        | lab[10/10]         | write some practical programs, using the learned data structure and algorithms. pretty instereting:) |
 
 ## 📧 Contact
