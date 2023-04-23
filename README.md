@@ -27,10 +27,9 @@ _**I'm an undergraduate from Nanjing University, majoring in Software Engineerin
 | ***Technologies of Database Development***, Spring 2023, NJU | MiniOB             | implement a simplified version of *OceanBase* in order to learn database implementation principle. |
 | ***Operation System Engineering***, Fall 2022, MIT 6.1810 (6.s081) | lab[10/10] | implement some features on *xv6* which is a simple Unix-like teaching operating system. |
 | ***Compilers***, Fall 2022, NJU                              | lab[7/7]           | implement a compiler to compile language SysY(a subset of C) to LLVM IR. |
-| ***Software Engineering and Computing II***, Spring 2022, NJU | erp-system         | A web project with sperated front and back end, using SpringBoot, MyBatis and Vue. |
+| ***Software Engineering and Computing II***, Spring 2022, NJU | ERP System         | A web project with sperated front and back end, using SpringBoot, MyBatis and Vue. |
 | ***Computer Organization and Architecture***, Fall 2021, NJU | lab[13/13]         | simulate the major components of a computer using Java, including ALU, FPU,  MMU, cache, disk, instruction pipeline. |
 | ***Algorithms***, coursera, princeton                        | lab[10/10]         | implement some useful tools in real-life scenarios using learned data structures and algorithms. |
-| ***Software Engineering and Computing I***, Spring 2021, NJU | Turing Machine | my first Java practice project: simulate a simple Turing Machine. | 
 
 ## 📧 Contact
 
