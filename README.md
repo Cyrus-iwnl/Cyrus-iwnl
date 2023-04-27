@@ -22,7 +22,7 @@ _**I'm an undergraduate from Nanjing University, majoring in Software Engineerin
 
 | Course                                                       | Lab/Project        | Brief                                                        |
 | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
-| ***Intro to Database Systems***, Fall 2022, CMU 15-445| `TODO`<br/>C++ primer[0/1]<br/>bustub[0/4]   | implement a database kernel with Buffer Pool Manager, Extendible Hash Index, Query Execution, and Concurrency Control. |
+| ***Intro to Database Systems***, Fall 2022, CMU 15-445| `work in progress`   | implement a database kernel with Buffer Pool Manager, Extendible Hash Index, Query Execution, and Concurrency Control. |
 | ***Software Engineering and Computing III***, Spring 2023, NJU | SentiStrength | A refactored version of the classical *SentiStrength*.       |
 | ***Technologies of Database Development***, Spring 2023, NJU | MiniOB             | implement a simplified version of *OceanBase* in order to learn database implementation principle. |
 | ***Operation System Engineering***, Fall 2022, MIT 6.1810 (6.s081) | lab[10/10] | implement some features on *xv6* which is a simple Unix-like teaching operating system. |
