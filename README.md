@@ -6,10 +6,9 @@ _**I'm an undergraduate from Nanjing University, majoring in Software Engineerin
 
 ## 📚 Language
 ![Java](https://img.shields.io/badge/-Java-FC801D?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-FE2857?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-DD1265?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-FE2857?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FDB60D?style=flat&logo=python&logoColor=white)
-(sorted by proficiency)
 
 ## 🛠 Tool
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-FE2857?style=flat&logo=IntelliJIDEA&logoColor=white)
