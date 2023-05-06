@@ -1,6 +1,6 @@
 ## 👋 Hi there
 ![hit](https://img.shields.io/endpoint?color=green&label=visitors&url=https%3A%2F%2Fhits.dwyl.com%2FCyrus-iwnl%2FCyrus-iwnl.json)
-
+[![HitCount](https://hits.dwyl.com/Cyrus-iwnl/Cyrus-iwnl.svg?style=flat)](http://hits.dwyl.com/Cyrus-iwnl/Cyrus-iwnl)
 ## 🕵 About me
 _**I'm an undergraduate from Nanjing University, majoring in Software Engineering.**_
 
