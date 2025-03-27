@@ -2,13 +2,15 @@
 [![HitCount](https://hits.dwyl.com/Cyrus-iwnl/Cyrus-iwnl.svg?style=flat)](http://hits.dwyl.com/Cyrus-iwnl/Cyrus-iwnl)
 
 ## 🕵 About me
-_**I'm an undergraduate from Nanjing University, majoring in Software Engineering.**_
+_**I'm a graduate student from Nanjing University, majoring in Software Engineering.**_
 
 ## 📚 Language
 ![Java](https://img.shields.io/badge/-Java-FC801D?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-FE2857?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-DD1265?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FDB60D?style=flat&logo=python&logoColor=white)
+
+Currently leaning: _GO_ ! 
 
 ## 🛠 Tool
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-FE2857?style=flat&logo=IntelliJIDEA&logoColor=white)
@@ -21,7 +23,7 @@ _**I'm an undergraduate from Nanjing University, majoring in Software Engineerin
 
 | Course                                                       | Lab/Project        | Brief                                                        |
 | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
-| ***Intro to Database Systems***, Spring2023, CMU 15-445| 🚧lab[2/5] | implement a database with Buffer Pool Manager, B+ Tree Index, Query Execution, and Concurrency Control. |
+| ***Intro to Database Systems***, Spring2023, CMU 15-445| lab[5/5] | implement a database with Buffer Pool Manager, B+ Tree Index, Query Execution, and Concurrency Control. |
 | ***Software Engineering and Computing III***, Spring 2023, NJU | SentiStrength | A refactored version of the classical *SentiStrength*.       |
 | ***Technologies of Database Development***, Spring 2023, NJU | MiniOB             | implement a simplified version of *OceanBase* in order to learn database implementation principle. |
 | ***Operation System Engineering***, Fall 2022, MIT 6.1810 (6.s081) | lab[10/10] | implement some features on *xv6* which is a simple Unix-like teaching operating system. |
