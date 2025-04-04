@@ -1,6 +1,4 @@
 ## 👋 Hi there
-[![HitCount](https://hits.dwyl.com/Cyrus-iwnl/Cyrus-iwnl.svg?style=flat)](http://hits.dwyl.com/Cyrus-iwnl/Cyrus-iwnl)
-
 ## 🕵 About me
 _**I'm a graduate student from Nanjing University, majoring in Software Engineering.**_
 
@@ -10,13 +8,25 @@ _**I'm a graduate student from Nanjing University, majoring in Software Engineer
 ![C](https://img.shields.io/badge/-DD1265?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FDB60D?style=flat&logo=python&logoColor=white)
 
-Currently leaning: _GO_ ! 
+Currently learning: _Golang_ ! 
 
-## 🛠 Tool
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-FE2857?style=flat&logo=IntelliJIDEA&logoColor=white)
-![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-white?style=flat&logo=VisualStudioCode&logoColor=087CFA)
-![CLion](https://img.shields.io/badge/-CLion-087CFA?style=flat&logo=CLion&logoColor=white)
-![Pycharm](https://img.shields.io/badge/-Pycharm-21D789?style=flat&logo=Pycharm&logoColor=white)
+## 🚀 Recommends
+### 📚 Books
+- Algorithms (4th edition) | Robert Sedgewick, Kevin Wayne
+- Structure and Interpretation of Computer Programs (SICP) | Harold Abelson, Gerald Jay Sussman
+- Computer Systems: A Programmer's Perspective (CS:APP) | Randal E. Bryant, David R. O’Hallaron
+- Computer Networking: A Top-Down Approach | James F. Kurose, Keith W. Ross
+- Machine Learning | Zhi-Hua Zhou
+- Operating Systems: Three Easy Pieces (OSTEP) | Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau
+- The Mythical Man-Month | Frederick P. Brooks
+
+### 🏫 Courses
+- Princeton University - Algorithms, Part I & II
+- MIT 6.S081 - Operating System Engineering
+- UC Berkeley CS 61C - Great Ideas in Computer Architecture
+- CMU 15-445 - Intro to Database Systems
+- Stanford CS229 - Machine Learning
+- MIT 6.824 - Distributed System
 
 ## 🔬 Course Project
 > ***Note***: Due to the requirements of [academic integrity](https://integrity.mit.edu/), some projects are private. 
